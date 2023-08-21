@@ -1,7 +1,7 @@
 # Pill Splitter
 The pill slicer is an easy to use device that slices a pill into two. This device is intended for users that need to cut pills into two and have difficulty doing so without crushing the pill.
 
-<img src="Photos/Pill-Splitter.jpg" width="500" alt="Picture of Pill Splitter.">
+<img src="Photos/Pill-Splitter.png" width="500" alt="Picture of Pill Splitter.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/pill-splitter/)
