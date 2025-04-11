@@ -61,9 +61,10 @@ Reference the [Assembly Guide](/Documentation/Pill_Splitter_Assembly_Guide_V1.0.
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
+
 Designers:
-•	Initial design by [Aliaksei Petsiuk @apetsiuk - MyMiniFactory](https://www.myminifactory.com/users/apetsiuk)
-•	Modifications and documentation by Neil Squire Society/Makers Making Change
+ - Initial design by [Aliaksei Petsiuk @apetsiuk - MyMiniFactory](https://www.myminifactory.com/users/apetsiuk)
+ - Modifications and documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
